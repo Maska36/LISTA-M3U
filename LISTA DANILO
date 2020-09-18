@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 ,ESPN HD
+http://f.ok2.se:8000/Fonzi/Fonzi/143
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EXPERIENCING NETWORK ISSUES - STAND BY - NBC SPORTS"  group-title="Unsorted",EXPERIENCING NETWORK ISSUES - STAND BY - NBC SPORTS
+http://f.ok2.se:8000/Fonzi/Fonzi/170
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*CBS SPORTS HD"  group-title="Unsorted",*CBS SPORTS HD
+http://f.ok2.se:8000/Fonzi/Fonzi/169
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 1 HD"  group-title="Unsorted",*TSN 1 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/138
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 2 HD"  group-title="Unsorted",*TSN 2 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/139
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 3 HD"  group-title="Unsorted",*TSN 3 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/140
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 4 HD"  group-title="Unsorted",*TSN 4 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/141
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 5 HD"  group-title="Unsorted",*TSN 5 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/142
+
+
